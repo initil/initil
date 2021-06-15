@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Quen Lee, a Software Engineer, Expert Programmer, IT Project Manager over 18 years experience building software for a broad variety of sectors. I have experience in a wide variety of languages, frameworks, and technologies.
+I am Eric Li, a Software Engineer, Expert Programmer, IT Project Manager over 18 years experience building software for a broad variety of sectors. I have experience in a wide variety of languages, frameworks, and technologies.
 
 - 👯 I’m looking for IT Project Management jobs
 - 🔭 I’m currently working on an Investment Research Data Software
