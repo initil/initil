@@ -1,14 +1,3 @@
-### Hi there 👋
-
-I am Eric Li, a Software Engineer, Expert Programmer, IT Project Manager over 18 years experience building software for a broad variety of sectors. I have experience in a wide variety of languages, frameworks, and technologies.
-
-- 👯 I’m looking for IT Project Management jobs
-- 🔭 I’m currently working on an Investment Research Data Software
-- 🌱 I’m currently learning Rust language
-- 📫 How to reach me: itil(at)msn.cn
-
-
-<!--
 **initil/initil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
+
